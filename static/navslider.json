@@ -1,0 +1,18 @@
+{
+	"ret": true,
+	"data": {
+		"navslider":[{
+			"id": "00001",
+			"imgUrl": "https://s3.mogucdn.com/mlcdn/c45406/180104_62k76d7bg56k8b92b6dhl3bf23af9_750x390.jpg_800x9999.v1c7E.70.webp"
+		},{
+			"id": "00002",
+			"imgUrl": "https://s3.mogucdn.com/mlcdn/c45406/180107_3d3g3cbihedfbecccha0c8f1a140l_750x390.jpg_800x9999.v1c7E.70.webp"
+		},{
+			"id": "00003",
+			"imgUrl": "https://s17.mogucdn.com/mlcdn/c45406/180111_599cg566c0jdl1c565ida4gl4bgda_750x390.jpg_800x9999.v1c7E.70.webp"
+		},{
+			"id": "00004",
+			"imgUrl": "https://s17.mogucdn.com/mlcdn/c45406/180108_436624c93lej7l46g3faa82521a7d_750x390.jpg_800x9999.v1c7E.70.webp"
+		}]
+	}
+}
