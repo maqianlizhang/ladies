@@ -6,20 +6,23 @@
     <popular></popular>
     <h2 class="popular">限时秒杀</h2>
     <seconds></seconds>
+    <foot home="home"></foot>
   </div>
 </template>
 <script>
-  import IndexHeader from './header'
+  import IndexHeader from 'components/ui/header'
   import NavSlider from './slider'
   import Popular from './popular'
   import Seconds from './seconds'
+  import Foot from 'components/ui/foot'
   export default {
     name: 'Index',
     components: {
       IndexHeader,
       NavSlider,
       Popular,
-      Seconds
+      Seconds,
+      Foot
     }
   }
 </script>
